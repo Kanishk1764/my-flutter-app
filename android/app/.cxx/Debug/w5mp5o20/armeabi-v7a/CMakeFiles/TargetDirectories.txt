@@ -1,0 +1,2 @@
+C:/Users/kanis/Desktop/handzy/android/app/.cxx/Debug/w5mp5o20/armeabi-v7a/CMakeFiles/edit_cache.dir
+C:/Users/kanis/Desktop/handzy/android/app/.cxx/Debug/w5mp5o20/armeabi-v7a/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "505440963351",
+    "firebase_url": "https://handzy-c04d2-default-rtdb.firebaseio.com",
+    "project_id": "handzy-c04d2",
+    "storage_bucket": "handzy-c04d2.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:505440963351:android:dee0ae28792a5b3f9f8552",
+        "android_client_info": {
+          "package_name": "com.example.handzy"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD4jj4ylL5eBcAEGyfjzuGudyFxOm-hCvA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
